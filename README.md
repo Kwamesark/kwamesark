@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Evans Kwame Sarkodie
 
-<!--
-**Kwamesark/kwamesark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s Student in Computer Science @ UTRGV  
+🔬 Research Assistant | Machine Intelligence Lab  
+🧠 Focus: Reinforcement Learning, AI for Drug Discovery, Image Processing
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Python, C++, SQL, 
+- **Frameworks**: PyTorch, TensorFlow, NumPy, OpenCV
+- **Tools**: Docker, Git, LaTeX, Bash
+- **Cloud**: AWS, (Learning Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Recent Projects
+- 🔬 **Drug Design via Reinforcement Learning** – Deep RL models for molecule generation (Ongoing research)
+- 🫁 **Lung CT Image Interpolation** – Spatial & frequency domain reconstruction using FFT
+- 🔢 **Handwritten Digit Classifier** – CNN on MNIST (98%+ accuracy)
+
+## 📫 Let's Connect!
+- 🔗 [LinkedIn](https://linkedin.com/in/evans-kwame-sarkodie)
+  
