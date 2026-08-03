@@ -12,7 +12,8 @@
 
 
 ## 🚀 Recent Projects
-- ⚕️ **Temporal Reinforcement Learning for Sequential Sepsis Treatment Optimization Using MIMIC-IV ICU Trajectories** – Developed a temporal RL framework using MIMIC-IV ICU trajectories for sequential sepsis treatment optimization with PPO and A2C benchmarking, clinically informed reward engineering, 25-action treatment modeling, and off-policy evaluation.
+- 🧬 Temporal Reinforcement Learning for Sequential Sepsis Treatment Optimization Using MIMIC-IV ICU Trajectories *(Ongoing Research)*  
+Developing a temporal reinforcement learning framework using MIMIC-IV ICU trajectories for sequential sepsis treatment optimization. The project compares PPO, A2C, and offline Conservative Q-Learning (CQL) using 4-hour ICU windows, a 25-action fluid–vasopressor treatment space, clinically informed reward engineering, off-policy evaluation, and ablation analysis. No patient-level data are shared.
 
 - 🔬 **Drug Design via Reinforcement Learning** – Deep RL models for small molecule generation and heuristic-guided molecular optimization (Ongoing research)
 
