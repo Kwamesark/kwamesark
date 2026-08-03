@@ -2,8 +2,7 @@
 
 🎓 Master’s Student in Computer Science @ UTRGV  
 🔬 Research Assistant | Machine Intelligence Lab  
-🧠 Focus: Reinforcement Learning, AI for Drug Discovery, Image Processing
-
+🧠 Focus: Reinforcement Learning, Biomedical Informatics, AI for Clinical Decision Support, Drug Discovery, Image Processing
 ## 🛠️ Tech Stack
 - **Languages**: Python, C++, SQL, 
 - **Frameworks**: PyTorch, TensorFlow, NumPy, OpenCV
