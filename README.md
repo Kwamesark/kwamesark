@@ -10,7 +10,7 @@
 - **Tools**: Docker, Git, LaTeX, Bash
 - **Cloud**: AWS, (Learning Azure)
 
-## 🚀 Recent Projects
+
 ## 🚀 Recent Projects
 
 - ⚕️ **Temporal Reinforcement Learning for Sequential Sepsis Treatment Optimization Using MIMIC-IV ICU Trajectories** – Developed a temporal RL framework using MIMIC-IV ICU trajectories for sequential sepsis treatment optimization with PPO and A2C benchmarking, clinically informed reward engineering, 25-action treatment modeling, and off-policy evaluation.
